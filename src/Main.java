@@ -3,6 +3,8 @@ public class Main {
 
         System.out.println(" Version Is complete");
          System.out.println("Waow");
+         System.out.println(" jwqhkjhf");
+         System.out.println("abracadabra");
         
     }
 }
